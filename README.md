@@ -32,7 +32,7 @@ I take work from problem definition to a tested, working system: scoping the que
 
 ## Results
 
-| | | |
+|Models | Validation | Systems |
 |:---:|:---:|:---:|
 | **88.8%** recall at a threshold chosen for business cost | **12,000** timestamped records split by time to prevent leakage | **11,320** rows across **40** instruments in a SQL warehouse |
 | **p < 0.001** across Chi-Square, Mann-Whitney U, and t-tests | **3 asset classes** backtested: stocks, forex, crypto | **5 modules** refactored from a notebook into a tested pipeline |
