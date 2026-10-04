@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Nadine<br><br>I'm a data & ML engineer with a finance foundation. I started in accounting (IFRS, reconciliations, equity research) and moved into data and machine learning, so I care as much about whether a number is right as how fast it's computed. I build the pipelines, models, and reports that turn messy financial data into decisions people can trust.<br><br>Currently working on: <br>-> A modular, tested ML pipeline in Python: validation, feature engineering, time-based splits, and swappable models.<br><br>Currently learning:<br>-> C++ for performance-critical systems.<br>-> Machine learning for financial time series.<br><br>Ask me about: <br>data leakage · time-based validation · Kafka + AWS pipelines · VaR & drawdown · moving from accounting into data & ML<br><br>Fun fact: <br>I went from reconciling bank statements in Sage Pastel to writing FIFO PnL logic in pure SQL.<br><br><br>
 
 
