@@ -111,28 +111,3 @@ I take work from problem definition to a tested, working system: scoping the que
 
 ---
 
-```python
-class Dineo:
-    """ML x Data x Finance"""
-
-    def __init__(self):
-        self.finance = ["Accounting", "IFRS/IAS", "DCF & Valuation", "Equity Research", "VaR & Drawdown"]
-        self.data = ["Python", "SQL", "Kafka", "AWS", "Docker", "PostgreSQL"]
-        self.ml = ["scikit-learn", "time-based validation", "leakage checks", "tested pipelines"]
-        self.learning = ["C++", "ML for financial time series"]
-        self.open_to = ["Quant Developer", "Fintech Software Engineer", "ML Engineer"]
-        self.location = "Pretoria, South Africa (open to remote & relocation)"
-
-    def combine(self):
-        return Finance(self.finance) + Data(self.data) + ML(self.ml)
-
-    def build(self, problem):
-        data = validate(problem)    # no leakage, split by time
-        model = train(data)         # tested, reproducible, swappable
-        return explain(model)       # decisions people can trust
-
-
-if __name__ == "__main__":
-    me = Dineo()
-    print(me.combine())  # numbers that are right, systems that run
-```
