@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Nadine-55/Nadine-55/main/image0.jpeg" alt="Dineo Nadine Sithole Banner" width="100%">
 
-## ML x Data x Finance
 **I turn financial data into models, pipelines, and decisions that people can trust.**
 
 ![Location](https://img.shields.io/badge/Pretoria,_South_Africa-8b5cf6?style=for-the-badge)
