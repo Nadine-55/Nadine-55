@@ -1,18 +1,119 @@
-# 💫 About Me:
-Hi, I'm Nadine<br><br>I'm a data & ML engineer with a finance foundation. I started in accounting (IFRS, reconciliations, equity research) and moved into data and machine learning, so I care as much about whether a number is right as how fast it's computed. I build the pipelines, models, and reports that turn messy financial data into decisions people can trust.<br><br>Currently working on: <br>-> A modular, tested ML pipeline in Python: validation, feature engineering, time-based splits, and swappable models.<br><br>Currently learning:<br>-> C++ for performance-critical systems.<br>-> Machine learning for financial time series.<br><br>Ask me about: <br>data leakage · time-based validation · Kafka + AWS pipelines · VaR & drawdown · moving from accounting into data & ML<br><br>Fun fact: <br>I went from reconciling bank statements in Sage Pastel to writing FIFO PnL logic in pure SQL.<br><br><br>
+<div align="center">
 
+<img src="https://lh3.googleusercontent.com/d/1g33p5d0SUp6ySj75bHBykP5p-w6j5zCg" alt="Dineo Nadine Sithole Banner" width="100%">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadine-sithole-58638327b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadine5s@outlook.com) 
+## ML x Data x Finance
+**I turn financial data into models, pipelines, and decisions that people can trust.**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nadine-55&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nadine-55&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nadine-55&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Location](https://img.shields.io/badge/Pretoria,_South_Africa-8b5cf6?style=for-the-badge)
+![Open](https://img.shields.io/badge/Open_to_remote_&_relocation-c4a1ff?style=for-the-badge&labelColor=1a1038)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nadine-55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I work where machine learning, data engineering, and finance meet. My foundation is accounting (IFRS reporting, reconciliations, valuation), and my daily practice is building machine learning systems and data pipelines in Python and SQL. That combination means I understand what the numbers mean, and I know how to engineer systems that get them right.
+
+I take work from problem definition to a tested, working system: scoping the question, validating the data, building the model, and explaining the result clearly to technical and non-technical people. I am building toward quant developer and fintech engineering roles, and I am open to remote work and relocation.
+
+My strongest current work is pinned above.
+
+---
+
+## What I Deliver
+
+- **Models that hold up in the real world.** Time-based validation, leakage checks, subgroup fairness checks, and decision thresholds tied to business cost.
+- **Pipelines that run reliably.** Streaming ingestion with Kafka into AWS data lakes, SQL warehouses built with CTEs and window functions, and full stacks containerized with Docker.
+- **Code others can build on.** Exploratory notebooks refactored into modular, tested, reproducible Python.
+- **Financial insight.** DCF, comparable-company and precedent valuation, equity research, and risk metrics including VaR, volatility, and drawdown.
+- **Clear communication.** Statistical findings and investment reasoning presented in plain language for decision-makers.
+
+---
+
+## Results
+
+| | | |
+|:---:|:---:|:---:|
+| **88.8%** recall at a threshold chosen for business cost | **12,000** timestamped records split by time to prevent leakage | **11,320** rows across **40** instruments in a SQL warehouse |
+| **p < 0.001** across Chi-Square, Mann-Whitney U, and t-tests | **3 asset classes** backtested: stocks, forex, crypto | **5 modules** refactored from a notebook into a tested pipeline |
+
+---
+
+## Experience
+
+- **Machine Learning Engineering Intern:** modular ML pipeline, validation layer, time-based splits, swappable models
+- **Data Science Intern:** end-to-end classification, leakage prevention, formal hypothesis testing
+- **Equity Research Extern:** DCF, comps, precedent transactions, and a full investment memo
+- **Finance & Accounts Administrator (1.5 years):** accounts payable and receivable, bank reconciliations, IFRS/IAS reporting
+
+---
+
+## Currently
+
+- **Working on:** a modular ML pipeline in Python with validation, time-based splits, and swappable models
+- **Learning:** C++ for performance-critical systems, and machine learning for financial time series
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Nadine-55/Nadine-55/main/office-animation.svg" alt="Trading desk" width="100%">
+</div>
+
+---
+
+## Skill Set
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**ML & Data**
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+**Data Engineering & Cloud**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Apps & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
+
+**Finance**
+![DCF](https://img.shields.io/badge/DCF_&_Valuation-8b5cf6?style=for-the-badge)
+![Equity Research](https://img.shields.io/badge/Equity_Research-8b5cf6?style=for-the-badge)
+![Comps](https://img.shields.io/badge/Comps_&_Precedents-8b5cf6?style=for-the-badge)
+![IFRS](https://img.shields.io/badge/IFRS/IAS-8b5cf6?style=for-the-badge)
+![Risk](https://img.shields.io/badge/VaR_&_Drawdown-8b5cf6?style=for-the-badge)
+
+---
+
+## Ask Me About
+
+`data leakage` · `time-based validation` · `Kafka + AWS pipelines` · `VaR & drawdown` · `FIFO PnL in SQL` · `moving from accounting into data`
+
+---
+
+## Fun Fact
+
+I went from reconciling bank statements in Sage Pastel to writing FIFO PnL logic in pure SQL.
