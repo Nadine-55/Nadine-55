@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lh3.googleusercontent.com/d/1g33p5d0SUp6ySj75bHBykP5p-w6j5zCg" alt="Dineo Nadine Sithole Banner" width="100%">
+<<img src="https://raw.githubusercontent.com/Nadine-55/Nadine-55/main/image0.jpeg" alt="Dineo Nadine Sithole Banner" width="100%">>
 
 ## ML x Data x Finance
 **I turn financial data into models, pipelines, and decisions that people can trust.**
