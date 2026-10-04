@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360">
+<style>
+.tick{animation:tk 24s linear infinite}@keyframes tk{to{transform:translateX(-900px)}}
+.ln{stroke-dasharray:420;animation:ln 6s ease-in-out infinite}@keyframes ln{0%{stroke-dashoffset:420}60%,100%{stroke-dashoffset:0}}
+.bar{transform-box:fill-box;transform-origin:bottom;animation:br 2.4s ease-in-out infinite alternate}
+.bar:nth-child(2){animation-delay:.4s}.bar:nth-child(3){animation-delay:.8s}.bar:nth-child(4){animation-delay:1.2s}.bar:nth-child(5){animation-delay:.2s}
+@keyframes br{from{transform:scaleY(.35)}to{transform:scaleY(1)}}
+.w{animation:tw 3s infinite alternate}.w:nth-child(2n){animation-delay:1s}.w:nth-child(3n){animation-delay:2s}@keyframes tw{to{opacity:.15}}
+.cur{animation:cu 1s steps(1) infinite}@keyframes cu{50%{opacity:0}}
+.cd{transform-box:fill-box;transform-origin:center;animation:cd 3s ease-in-out infinite alternate}@keyframes cd{to{transform:scaleY(.7)}}
+</style>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1560"/><stop offset=".7" stop-color="#7a4bd8"/><stop offset="1" stop-color="#f0a6ca"/></linearGradient></defs>
+<rect width="900" height="360" fill="#0b0f1f"/>
+<rect y="28" width="900" height="294" fill="url(#sky)"/>
+<g fill="#150c33"><rect x="20" y="200" width="60" height="122"/><rect x="95" y="150" width="50" height="172"/><rect x="160" y="230" width="70" height="92"/><rect x="620" y="190" width="55" height="132"/><rect x="690" y="130" width="45" height="192"/><rect x="750" y="220" width="70" height="102"/><rect x="835" y="170" width="55" height="152"/></g>
+<g fill="#ffe9a8"><rect class="w" x="30" y="215" width="6" height="8"/><rect class="w" x="50" y="240" width="6" height="8"/><rect class="w" x="105" y="170" width="6" height="8"/><rect class="w" x="125" y="210" width="6" height="8"/><rect class="w" x="700" y="155" width="6" height="8"/><rect class="w" x="715" y="200" width="6" height="8"/><rect class="w" x="850" y="195" width="6" height="8"/><rect class="w" x="635" y="210" width="6" height="8"/></g>
+<rect width="900" height="28" fill="#120a2a"/>
+<g class="tick" font-family="monospace" font-size="13" fill="#c4a1ff"><text x="10" y="19">AAPL ▲   BTC ▲   EUR/USD ▼   SPY ▲   NVDA ▲   GOLD ▼   VIX ▼   ETH ▲   MSFT ▲   TSLA ▼   AAPL ▲   BTC ▲   EUR/USD ▼   SPY ▲   NVDA ▲   GOLD ▼   VIX ▼   ETH ▲   MSFT ▲   TSLA ▼</text></g>
+<rect x="155" y="220" width="20" height="102" fill="#1a1a2e"/><rect x="725" y="220" width="20" height="102" fill="#1a1a2e"/><rect x="435" y="232" width="30" height="90" fill="#1a1a2e"/>
+<rect x="60" y="95" width="210" height="125" rx="8" fill="#0d1117" stroke="#8b5cf6" stroke-width="2"/>
+<g font-family="monospace" font-size="11" fill="#c4a1ff"><text x="72" y="118">def sharpe(r):</text><text x="84" y="136" fill="#7ee0b0">mu = r.mean()</text><text x="84" y="154" fill="#7ee0b0">sd = r.std()</text><text x="84" y="172" fill="#f0a6ca">return mu/sd</text><text x="72" y="196">&gt;&gt; backtest()<tspan class="cur" fill="#fff"> █</tspan></text></g>
+<g transform="translate(-135 5.4) scale(1.3)">
+<rect x="330" y="42" width="240" height="132" rx="8" fill="#0d1117" stroke="#8b5cf6" stroke-width="2"/>
+<g stroke-width="2"><g stroke="#7ee0b0" fill="#7ee0b0"><path d="M355 120v30M385 100v34M445 90v30M505 78v34"/><rect class="cd" x="351" y="125" width="8" height="18"/><rect class="cd" x="381" y="108" width="8" height="20"/><rect class="cd" x="441" y="96" width="8" height="16"/><rect class="cd" x="501" y="84" width="8" height="18"/></g><g stroke="#f0a6ca" fill="#f0a6ca"><path d="M415 105v32M475 95v30M535 70v30"/><rect class="cd" x="411" y="112" width="8" height="18"/><rect class="cd" x="471" y="100" width="8" height="18"/><rect class="cd" x="531" y="76" width="8" height="16"/></g></g>
+<path class="ln" d="M345 150L385 125L415 130L445 105L475 112L505 90L535 80L560 62" stroke="#c4a1ff" stroke-width="3" fill="none"/>
+</g>
+<rect x="630" y="95" width="210" height="125" rx="8" fill="#0d1117" stroke="#8b5cf6" stroke-width="2"/>
+<g fill="#8b5cf6"><rect class="bar" x="655" y="130" width="22" height="70"/><rect class="bar" x="690" y="115" width="22" height="85"/><rect class="bar" x="725" y="140" width="22" height="60"/><rect class="bar" x="760" y="120" width="22" height="80"/><rect class="bar" x="795" y="135" width="22" height="65"/></g>
+<rect y="322" width="900" height="38" fill="#241437"/>
+<rect x="370" y="312" width="160" height="14" rx="4" fill="#1a1a2e" stroke="#8b5cf6"/>
+<rect x="60" y="326" width="22" height="22" rx="4" fill="#e9ddff"/><path d="M82 332q10 0 10 8t-10 8" stroke="#e9ddff" stroke-width="3" fill="none"/>
+</svg>
