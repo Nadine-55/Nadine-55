@@ -1,6 +1,6 @@
 <div align="center">
 
-<<img src="https://raw.githubusercontent.com/Nadine-55/Nadine-55/main/image0.jpeg" alt="Dineo Nadine Sithole Banner" width="100%">>
+<img src="https://raw.githubusercontent.com/Nadine-55/Nadine-55/main/image0.jpeg" alt="Dineo Nadine Sithole Banner" width="100%">
 
 ## ML x Data x Finance
 **I turn financial data into models, pipelines, and decisions that people can trust.**
@@ -16,9 +16,8 @@
 
 I work where machine learning, data engineering, and finance meet. My foundation is accounting (IFRS reporting, reconciliations, valuation), and my daily practice is building machine learning systems and data pipelines in Python and SQL. That combination means I understand what the numbers mean, and I know how to engineer systems that get them right.
 
-I take work from problem definition to a tested, working system: scoping the question, validating the data, building the model, and explaining the result clearly to technical and non-technical people. I am building toward quant developer and fintech engineering roles, and I am open to remote work and relocation.
+I take work from problem definition to a tested, working system: scoping the question, validating the data, building the model, and explaining the result clearly to technical and non-technical people. 
 
-My strongest current work is pinned above.
 
 ---
 
