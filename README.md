@@ -64,6 +64,7 @@ I take work from problem definition to a tested, working system: scoping the que
 ## Skill Set
 
 **Languages & Databases**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -71,6 +72,7 @@ I take work from problem definition to a tested, working system: scoping the que
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **ML & Data**
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -79,6 +81,7 @@ I take work from problem definition to a tested, working system: scoping the que
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 **Data Engineering & Cloud**
+
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -88,6 +91,7 @@ I take work from problem definition to a tested, working system: scoping the que
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Apps & Tools**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -98,20 +102,10 @@ I take work from problem definition to a tested, working system: scoping the que
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
 **Finance**
+
 ![DCF](https://img.shields.io/badge/DCF_&_Valuation-8b5cf6?style=for-the-badge)
 ![Equity Research](https://img.shields.io/badge/Equity_Research-8b5cf6?style=for-the-badge)
 ![Comps](https://img.shields.io/badge/Comps_&_Precedents-8b5cf6?style=for-the-badge)
 ![IFRS](https://img.shields.io/badge/IFRS/IAS-8b5cf6?style=for-the-badge)
 ![Risk](https://img.shields.io/badge/VaR_&_Drawdown-8b5cf6?style=for-the-badge)
 
----
-
-## Ask Me About
-
-`data leakage` · `time-based validation` · `Kafka + AWS pipelines` · `VaR & drawdown` · `FIFO PnL in SQL` · `moving from accounting into data`
-
----
-
-## Fun Fact
-
-I went from reconciling bank statements in Sage Pastel to writing FIFO PnL logic in pure SQL.
